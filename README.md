@@ -1,2 +1,2 @@
 # python_basics
-basics of python programming
+This is just a collection of basic python code
